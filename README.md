@@ -92,5 +92,5 @@ src="https://img.shields.io/github/followers/HermanhMakiese?logo=github&style=fo
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/hollerith47/101_py_exercises.git" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hollerith47&repo=101_py_exercises&title_color=ff297194&text_color=ffffff&icon_color=ff297194&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/hollerith47/101_py_exercises.git" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hollerith47&repo=101_py_exercises&title_color=ff297194&text_color=ffffff&icon_color=ff297194&bg_color=1c1917&hide_border=true&locale=en" /></a></div> <br /><br /><br /><br /><br /><br /><br />
 
