@@ -22,7 +22,7 @@ where I'm studying cyber-security.
 You will be able to see all my projects as soon as possible I can.
 
 - 🌍  I'm based in Rostov, Russia
-- 👑  I'm a CEO of [H Tech](https://htech-cloud.com) a web hosting server comoany
+- 👑  I'm a CEO of [H Tech](https://htech-cloud.com) a web hosting server company
 - 🖥️  See my portfolio at [My website](https://ceo.htech-cloud.com)
 - ✉️  You can contact me at [makiese@yandex.com](mailto:makiese@yandex.com)
 - 🚀  I'm currently working on [My blog](https://notyet)
