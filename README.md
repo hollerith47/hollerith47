@@ -22,12 +22,13 @@ where I'm studying cyber-security.
 You will be able to see all my projects as soon as possible I can.
 
 - 🌍  I'm based in Rostov, Russia
-- 🖥️  See my portfolio at [My website](https://notyet)
+- 👑  I'm a CEO of [H Tech](https://htech-cloud.com) a web hosting server comoany
+- 🖥️  See my portfolio at [My website](https://ceo.htech-cloud.com)
 - ✉️  You can contact me at [makiese@yandex.com](mailto:makiese@yandex.com)
 - 🚀  I'm currently working on [My blog](https://notyet)
-- 🦄 My assesfirst profile [Here](https://htech-cloud.com)
+- 🦄  Check My profile [Here](https://ceo.htech-cloud.com)
 - 🧠  I'm learning web developpment, React Js, NextJs, Php...
-- 🔭 I'm not bad in Python and C# and now learning Java
+- 🔭  I'm not bad in Python and C# and now learning Java
 - 🤝  I'm open to collaborating on little projects
 - ⚡  My favorite color is BLUE
 
