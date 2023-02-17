@@ -25,8 +25,9 @@ You will be able to see all my projects as soon as possible I can.
 - 🖥️  See my portfolio at [My website](https://notyet)
 - ✉️  You can contact me at [makiese@yandex.com](mailto:makiese@yandex.com)
 - 🚀  I'm currently working on [My blog](https://notyet)
-- 🦄 My assesfirst profile [Here](https://app.assessfirst.com/_/profile/9h7jahx4-amelie-abdallah)
-- 🧠  I'm learning web developpment, React Js...
+- 🦄 My assesfirst profile [Here](https://htech-cloud.com)
+- 🧠  I'm learning web developpment, React Js, NextJs, Php...
+- 🔭 I'm not bad in Python and C# and now learning Java
 - 🤝  I'm open to collaborating on little projects
 - ⚡  My favorite color is BLUE
 
