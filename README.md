@@ -10,7 +10,8 @@ You will be able to see all my projects as soon as possible I can.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ...![image](https://user-images.githubusercontent.com/49532123/219848113-de3899cd-f2b7-482e-a421-dba9c085ddeb.png)
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -18,6 +19,7 @@ You will be able to see all my projects as soon as possible I can.
 - ⚡ Fun fact: ...
 -->
 I started to learn development in Wordpress, my first wordpress site has been online from 2017, then I continue my journey as a self-taught, and continue my studies at the University.
+
 where I'm studying cyber-security.
 You will be able to see all my projects as soon as possible I can.
 
@@ -48,7 +50,6 @@ src="https://img.shields.io/github/followers/HermanhMakiese?logo=github&style=fo
 <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="48" height="48" alt="Composer" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
 
