@@ -62,7 +62,8 @@ src="https://img.shields.io/twitter/follow/HermanhMakiese?t=EXzGZf6mxpWYr8qIzhSl
 
 <a href="http://www.github.com/hollerith47"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hollerith47&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/hollerith47" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hollerith47&hide_progress=true&theme=transparent" alt="Top Languages" /></a>
+<!-- <a href="https://github.com/hollerith47" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hollerith47&hide_progress=true&theme=transparent" alt="Top Languages" /></a> -->
+<a href="https://github.com/hollerith47" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hollerith47&hide_progress=true&theme=transparent&layout=pie" alt="Top Languages" /></a>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <b>Top Repositories</b>
