@@ -7,7 +7,7 @@ Web developer and Entrepreneur
 I started to learn development in Wordpress, my first wordpress site has been online from 2017, then I continue my journey as a self-taught, and continue my studies at the University. where I'm studying cyber-security. You will be able to see all my projects as soon as possible I can.
 
 * 🌍  I'm based in Rostov, Russia
-* 🖥️  See my portfolio at [MyPortFolio](hmakportfolio.netlify.app)
+* 🖥️  See my portfolio at [MyPortFolio](https://hmakportfolio.netlify.app/)
 * ✉️  You can contact me at [makieseherman@gmail.com](mailto:makieseherman@gmail.com)
 * 🚀  I'm currently working on [My web hosting company WebSite](http://htech-cloud.com)
 * 🧠  I'm learning Java...
